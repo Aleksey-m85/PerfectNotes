@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Совершенные заметки</string>
+    <string name="change_date_text">Изменить дату</string>
+    <string name="datepicker_header">Пожалуйста, установите дату создания заметки</string>
+    <string name="settings_button_descr">Настройки</string>
+    <string name="about_button_descr">О нас</string>
+    <string name="settings_title_text">Вот настройки для чего-то. Ваши детали заметок будут выглядеть так (нажмите здесь, чтобы показать):</string>
+    <string name="note_title_example">Название заметки</string>
+    <string name="note_text_example">Пример основного текста заметки</string>
+    <string name="notes_list_title_on_appbar">Notes</string>
+    <string name="action_sort">Сортировать</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_share">Поделиться</string>
+    <string name="action_add_img_or_link">Добавьте изображение или ссылку</string>
+    <string name="action_add_img">Добавить изображение</string>
+    <string name="action_add_link">Добавить ссылку</string>
+    <string name="open_drawer">Показать меню</string>
+    <string name="close_drawer">Скрыть меню</string>
+    <string name="settings_header">Настройки</string>
+    <string name="goto_notes">Список заметок</string>
+    <string name="author_link">github.com</string>
+    <string name="app_version">v 0.0.1</string>
+    <string name="background_description">Фоновое изображение</string>
+    <string name="action_delete">Удалить заметку</string>
+    <string name="note_delete_gialog_title">Удалить заметку</string>
+    <string name="note_delete_gialog_question">Вы уверены, что хотите удалить заметку с заголовком %s?</string>
+    <string name="yes_word">Да</string>
+    <string name="no_word">Нет</string>
+    <string name="note_deleted">Заметка удалена!</string>
+    <string name="action_edit">Редактировать заметку</string>
+    <string name="action_save">Сохранить</string>
+</resources>
